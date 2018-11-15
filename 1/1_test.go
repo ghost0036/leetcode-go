@@ -5,6 +5,6 @@ import (
 	"testing"
 )
 
-func TestTwoSum(t *testing.T)  {
-	fmt.Println(twoSum([]int{1,2,3,4},6))
+func TestTwoSum(t *testing.T) {
+	fmt.Println(twoSum([]int{1, 2, 3, 4}, 6))
 }
